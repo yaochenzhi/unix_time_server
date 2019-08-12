@@ -1,0 +1,1 @@
+This is a timestamp server used for system time status monitor.
